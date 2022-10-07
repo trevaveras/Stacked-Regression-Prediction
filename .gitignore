@@ -6,6 +6,7 @@ __pycache__/
 #ignore DS_store and csv files
 .DS_Store
 *.csv
+.RHistory
 
 # ignore data folder and data viz folder
 data/
