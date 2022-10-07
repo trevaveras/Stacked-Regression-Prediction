@@ -3,6 +3,15 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+#ignore DS_store and csv files
+.DS_Store
+*.csv
+
+# ignore data folder and data viz folder
+data/
+viz/
+
+
 # C extensions
 *.so
 
